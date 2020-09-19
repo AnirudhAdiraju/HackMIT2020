@@ -1,0 +1,12 @@
+{
+  "name": "HackMIT",
+  "displayName": "HackMIT",
+  "expo": {
+    "name": "HackMIT",
+    "slug": "HackMIT",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
