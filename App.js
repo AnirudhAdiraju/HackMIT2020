@@ -18,6 +18,7 @@ export default class AppContainer extends React.Component {
   }
 
 render() {
+      console.disableYellowBox = true; 
       const AppNavigator = createStackNavigator({
         Info: {
           screen: info
